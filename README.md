@@ -1,4 +1,4 @@
-[![Header](https://github.com/KolZek/Kol_zek/blob/main/assets/header.jpg)](https://www.shpavda.com/)
+[![Header](https://github.com/KolZek/Kol_zek/blob/main/assets/header.jpg)](https://www.youtube.com/@Kol_zek)
 
 ### Hello there <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="16"/>
 I am a student programmer from the Russian Federation.
