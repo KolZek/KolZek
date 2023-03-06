@@ -12,6 +12,7 @@ I am a student programmer from the Russian Federation.
 [![PyTest](https://img.shields.io/badge/-PyTest-090909?style=for-the-badge&logo=pytest)](https://docs.pytest.org/en/7.2.x/)
 [![SQLite3](https://img.shields.io/badge/-SQLite3-090909?style=for-the-badge&logo=sqlite)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=1E90FF)](https://www.postgresql.org/)
+[![VKAPI](https://img.shields.io/badge/-VKAPI-090909?style=for-the-badge&logo=vk)](https://dev.vk.com/)
 
 ### Socials:
 [![CodeRed](https://github.com/KolZek/Kol_zek/blob/main/assets/crl.jpg)](https://codered-dev.ru/)
