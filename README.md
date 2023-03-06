@@ -8,6 +8,7 @@ I am a student programmer from the Russian Federation.
 [![Django](https://img.shields.io/badge/-Django-090909?style=for-the-badge&logo=django&logoColor=127a00)](https://www.djangoproject.com/)
 [![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=2965f1)](https://www.w3.org/TR/css-syntax-3/)
 [![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=html5)](https://html.spec.whatwg.org/multipage/)
+[![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-the-badge&logo=BOOTSTRAP)](https://getbootstrap.com/)
 [![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![PyTest](https://img.shields.io/badge/-PyTest-090909?style=for-the-badge&logo=pytest)](https://docs.pytest.org/en/7.2.x/)
 [![SQLite3](https://img.shields.io/badge/-SQLite3-090909?style=for-the-badge&logo=sqlite)](https://www.sqlite.org/)
