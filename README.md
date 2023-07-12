@@ -14,6 +14,9 @@ I am a student programmer from the Russian Federation.
 [![SQLite3](https://img.shields.io/badge/-SQLite3-090909?style=for-the-badge&logo=sqlite)](https://www.sqlite.org/)
 [![PostgreSQL](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=1E90FF)](https://www.postgresql.org/)
 [![VKAPI](https://img.shields.io/badge/-VKAPI-090909?style=for-the-badge&logo=vk)](https://dev.vk.com/)
+[![GUNICORN](https://img.shields.io/badge/-GUNICORN-090909?style=for-the-badge&logo=gunicorn)](https://gunicorn.org/)
+[![NGINX](https://img.shields.io/badge/-NGINX-090909?style=for-the-badge&logo=nginx)](https://nginx.org/)
+[![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
 ### Socials:
 [![CodeRed](https://github.com/KolZek/Kol_zek/blob/main/assets/crl.jpg)](https://codered-dev.ru/)
