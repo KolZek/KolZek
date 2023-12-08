@@ -19,6 +19,6 @@ I am a student programmer from the Russian Federation.
 [![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)](https://www.docker.com/)
 
 ### Socials:
-[![CodeRed](https://github.com/KolZek/Kol_zek/blob/main/assets/crl.jpg)](https://codered-dev.ru/)
+[![CodeRed](https://github.com/KolZek/Kol_zek/blob/main/assets/crl.jpg)](https://t.me/codered_dev)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/B776YC)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/kol_zek)
