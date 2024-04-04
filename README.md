@@ -17,6 +17,11 @@ I am a student programmer from the Russian Federation.
 [![GUNICORN](https://img.shields.io/badge/-GUNICORN-090909?style=for-the-badge&logo=gunicorn)](https://gunicorn.org/)
 [![NGINX](https://img.shields.io/badge/-NGINX-090909?style=for-the-badge&logo=nginx)](https://nginx.org/)
 [![DOCKER](https://img.shields.io/badge/-DOCKER-090909?style=for-the-badge&logo=docker)](https://www.docker.com/)
+[![ANACONDA](https://img.shields.io/badge/-anaconda-090909?style=for-the-badge&logo=anaconda)](https://www.anaconda.com/)
+[![GOOGLECOLAB](https://img.shields.io/badge/-googlecolab-090909?style=for-the-badge&logo=googlecolab)](https://colab.google/)
+[![OPENCV](https://img.shields.io/badge/-opencv-090909?style=for-the-badge&logo=opencv)](https://opencv.org/)
+[![PYTORCH](https://img.shields.io/badge/-pytorch-090909?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
+[![TENSORFLOW](https://img.shields.io/badge/-tensorflow-090909?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
 
 ### Socials:
 [![CodeRed](https://github.com/KolZek/Kol_zek/blob/main/assets/crl.jpg)](https://t.me/codered_dev)
